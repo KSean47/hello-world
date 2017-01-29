@@ -1,6 +1,8 @@
 # hello-world
 Due Sunday, 1/29/2017
 
+Hello world!
+
 My name is Sean Kennedy. 
 I'm a computer science major. 
 My personal hobbies are drawing, playing video games, and doing karate.
