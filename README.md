@@ -1,9 +1,15 @@
-# hello-world
-Due Sunday, 1/29/2017
+//# hello-world
+//Due Sunday, 1/29/2017
 
-Hello world!
+public Class Project1
+{
+public static void main(String args[])
+{
+System.out.println("Hello world!");
 
-My name is Sean Kennedy. 
-I'm a computer science major. 
-My personal hobbies are drawing, playing video games, and doing karate.
-I have a dog named Buddy; he's a yorksire terrior.
+System.out.println("My name is Sean Kennedy. \n" +
+"I'm a computer science major. \n" +
+"My personal hobbies are drawing, playing video games, and doing karate. \n" +
+"I have a dog named Buddy; he's a yorksire terrior.")
+}
+}
